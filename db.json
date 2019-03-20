@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "firsname": "bambang",
+            "lastname": "gentolet",
+            "email": "asdfafa@gmail.com",
+            "password": "asffsfafgaf"
+        },
+        {
+            "firsname": "hahaha",
+            "lastname": "hihihi",
+            "email": "hhaahha@gmail.com",
+            "password": "wiwiwi"
+        },
+        {
+            "firsname": "hehehe",
+            "lastname": "huhuhu",
+            "email": "hehehe@gmail.com",
+            "password": "wokkwoo"
+        }
+    ]
+}
