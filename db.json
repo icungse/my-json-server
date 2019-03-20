@@ -1,18 +1,21 @@
 {
     "users": [
         {
+            "id": 1,
             "firsname": "bambang",
             "lastname": "gentolet",
             "email": "asdfafa@gmail.com",
             "password": "asffsfafgaf"
         },
         {
+            "id": 2,
             "firsname": "hahaha",
             "lastname": "hihihi",
             "email": "hhaahha@gmail.com",
             "password": "wiwiwi"
         },
         {
+            "id": 3,
             "firsname": "hehehe",
             "lastname": "huhuhu",
             "email": "hehehe@gmail.com",
